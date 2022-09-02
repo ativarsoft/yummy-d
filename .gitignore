@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/yummy-d
+yummy-d.so
+yummy-d.dylib
+yummy-d.dll
+yummy-d.a
+yummy-d.lib
+yummy-d-test-*
+*.exe
+*.o
+*.obj
+*.lst

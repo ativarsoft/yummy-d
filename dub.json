@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Mateus de Lima Oliveira"
+	],
+	"copyright": "Copyright © 2022, Mateus de Lima Oliveira",
+	"description": "A media player.",
+	"license": "GPLv3",
+	"name": "yummy-d"
+}
